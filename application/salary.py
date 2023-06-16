@@ -1,0 +1,4 @@
+
+
+def calculate_salary():
+    print(1 + 1 + 2 + 2)
